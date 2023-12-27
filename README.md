@@ -1,4 +1,4 @@
-# CPSC436C - Cloud Computing
+# CPSC436C - Cloud Computing (2023W1)
 
 Please leave a star on the repo if you found this useful 😄
 
